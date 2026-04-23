@@ -1,7 +1,7 @@
 
 
 
-    const API_URL = ;
+    const API_URL = https://69ea4f0e15c7e2d51269a7c2.mockapi.io/:endpoint ;
 
     const petContainer = document.getElementById('pet-container');
     const petForm = document.getElementById('pet-form');
