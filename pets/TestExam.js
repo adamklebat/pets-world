@@ -1,5 +1,17 @@
 
+/*  
+id #
 
+name ( String).
+
+type ( String).
+
+color ( String).
+
+descripe ( String )
+
+
+*/
 
     const API_URL = https://69ea4f0e15c7e2d51269a7c2.mockapi.io/:endpoint ;
 
